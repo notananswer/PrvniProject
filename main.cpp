@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[])
 {
-	// Comment.xxxklkjl
+	// no Comment
 	return 0;
 }
 
